@@ -11,7 +11,7 @@ header{
     position: static;
     width: 100%;
     height: 150px;
-    background-image: url("/imagenes/rust.jpg");
+    background-image: url("https://github.com/EstefaGarcia/programacio/blob/main/imagenes/descarga.jpg");
     
 }
 nav{
