@@ -15,11 +15,11 @@ header{
     
 }
 nav{
-    word-spacing: 100px;
+    word-spacing: 400px;
     font-size: 20px;
     a:link {color: white;}
-    a:hover{color: black;}
-    a:visted{color: gray;}
+    a:hover{color: rgb(250, 228, 28);}
+    a:visited{color:white;}
     a{text-decoration: none;}
 
 }
@@ -29,6 +29,7 @@ section{
     margin-top: 35px;
     padding: 15px;
     border-radius: 50px;
+    box-shadow: 7px 7px 7px 7px rgb(194, 193, 193);
 }
 .articulos3{
     background-color: white;
